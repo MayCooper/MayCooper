@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!--
-**MayCooper/MayCooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,11 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm May Cooper</h1>
 <h3 align="center">A passionate data scientist/engineer from Canada</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio.maycooper.com/](https://portfolio.maycooper.com/)
+- 📫 How to reach me: **maycooperinc@gmail.com**
 
-- 📫 How to reach me **maycooperinc@gmail.com**
-
-- ⚡ Fun fact **I used to teach music, and play 5 instruments.**
+- ⚡ Fun fact about me: **I used to teach music, and play 5 instruments.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
