@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm May Cooper</h1>
 <h3 align="center">A passionate data scientist/engineer from Canada</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio.maycooper.com/](https://portfolio.maycooper.com/)
 
 - 📫 How to reach me **maycooperinc[at]gmail.com**
 
