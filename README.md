@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm May!</h1>
-<h2 align="center">My Projects</h2>
-
-<h2>Machine Learning & Data Science</h2>
+<h1>Hi, I'm May!</h1>
+<h2>Machine Learning & Data Science Projects</h2>
 <p>Pure Python & Statistics, Natural Language Processing, Neural Networks</p>
 
 <ul>
@@ -14,7 +12,7 @@
   <li> <a href="https://github.com/MayCooper/Coding-Gradient-Descent-for-LSR">Gradient Descent for LSR</a> - Focuses on coding the gradient descent optimization algorithm in Python to minimize the mean squared error cost function in linear regression models.</li>
 </ul>
 
-<h2>Data/Software Engineering</h2>
+<h2>Data/Software Engineering Projects</h2>
 <p>SQL, Python, Javascript, Ajax, JQuery, PHP, Apache & AWS</p>
 
 <ul>
@@ -27,8 +25,11 @@
   <li> <a href="https://github.com/MayCooper/Ai-chatbot">AI Chatbot</a> - Builds a personal AI chatbot with dynamic labels and speech functionalities using ChatGPT APIs, developed with JavaScript, NodeJS, and NPM Packages, and includes comprehensive error handling.</li>
 </ul>
 
-<h2 align="center">My Skills</h2>
+<h2 align="center">Skills</h2>
 
 <p align="center">
   Python, SQL, JavaScript, PHP, CSS/HTML, JSON, Linux, Apache, LLMs, AWS, GCP, Azure, Node.js, Git
+</p>
+<p align="center">
+  (and more)
 </p>
