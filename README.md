@@ -13,7 +13,7 @@
   <li> <a href="https://github.com/MayCooper/Decision-Trees-and-Random-Forests">Decision Trees & Random Forests</a> - Implementing Decision Trees and Random Forests in Python, utilizing supervised machine learning algorithms for complex classification and regression tasks, with a focus on improving algorithmic performance and accuracy.</li>
   <li> <a href="https://github.com/MayCooper/Data-Cleaning-Alignment-and-Feature-Engineering">Data Cleaning, Alignment, and Feature Engineering</a> - Preprocessing pipeline project that employs Python to perform critical tasks like data cleaning, alignment, and advanced feature engineering.</li>
   <li> <a href="https://github.com/MayCooper/Implementing-Decision-Trees">Implementing Decision Trees</a> - Python-based decision tree implementation, encompassing data preparation, model training, evaluation, and visualization for classification and regression tasks in supervised learning.</li>
-  <li>⬇ <a href="https://github.com/MayCooper/Coding-Gradient-Descent-for-LSR">Gradient Descent for LSR</a> - Focuses on coding the gradient descent optimization algorithm in Python to minimize the mean squared error cost function in linear regression models.</li>
+  <li> <a href="https://github.com/MayCooper/Coding-Gradient-Descent-for-LSR">Gradient Descent for LSR</a> - Focuses on coding the gradient descent optimization algorithm in Python to minimize the mean squared error cost function in linear regression models.</li>
 </ul>
 
 <h2>Data/Software Engineering</h2>
@@ -31,6 +31,6 @@
 
 <h2 align="center">My Skills</h2>
 
-<p>
+<p align="center">
   Python, SQL, AI/ML, JavaScript, PHP, AWS, GCP, Azure, Web Development, Cloud Computing, Node.js, Git
 </p>
