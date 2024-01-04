@@ -1,6 +1,4 @@
 <h1 align="center">Hi, I'm May!</h1>
-<h1 align="center">Software Developer, Data Scientist, and Data Engineer</h1>
-
 <h2 align="center">My Projects</h2>
 
 <h2>Machine Learning & Data Science</h2>
@@ -32,5 +30,5 @@
 <h2 align="center">My Skills</h2>
 
 <p align="center">
-  Python, SQL, AI/ML, JavaScript, PHP, AWS, GCP, Azure, Web Development, Cloud Computing, Node.js, Git
+  Python, SQL, JavaScript, PHP, CSS/HTML, JSON, Linux, Apache, LLMs, AWS, GCP, Azure, Node.js, Git
 </p>
