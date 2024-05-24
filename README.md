@@ -28,7 +28,7 @@
 
 <h2>Java Projects</h2>
 <p>Java, Springboot, Angular, Docker, Lombok</p>
-<li> <a href="https://github.com/MayCooper/Java-Multithreading-Scheduling-Application">Java SpringBoot Multi-threading Scheduling Application</a> - A multithreaded hotel scheduling application built with a Java Spring back end and an Angular front end. Features include multilingual support, currency display, and time zone conversion.</li>
+<li> <a href="https://github.com/MayCooper/Java-Multithreading-Scheduling-Application">Java Springboot Multi-threading Scheduling Application</a> - A multithreaded hotel scheduling application built with a Java Spring back end and an Angular front end. Features include multilingual support, currency display, and time zone conversion.</li>
 </ul>
 
 <h2 align="center">Skills</h2>
