@@ -3,6 +3,7 @@
 <p>Pure Python & Statistics, Natural Language Processing, Neural Networks</p>
 
 <ul>
+    <li><a href="https://github.com/MayCooper/Python-Nearest-Neighbor-Truck-Logistics-Program">Python Nearest Neighbor Logistics Truck Planner</a> - The Python Logistics Planner optimizes routing for a delivery service using the Nearest Neighbor Algorithm and a dynamic hash table. This solution minimizes travel distances and adapts to real-time changes, ensuring efficient and timely deliveries.</li>
   <li><a href="https://github.com/MayCooper/Product-Price-Prediction/blob/main/Final_Used%20Cars_Aug%2030%202021.ipynb">Product Price Prediction</a> - Machine learning model to predict used car prices utilizing Random Forest, Linear Regression and Neural Networks.</li>
   <li> <a href="https://github.com/MayCooper/green-energy-production-inverter-prediction">Solar Inverters Energy Capacity Prediction</a> - AI for optimizing solar power generation by predicting weather conditions and inverter failures with Python.</li>
   <li> <a href="https://github.com/MayCooper/Facial-Recognition-App">Facial Recognition App</a> - Application using OpenCV for facial recognition, using Python, OpenCV for image processing, and SVMs for classification, all integrated into a Flask web framework and deployed on Heroku.</li>
