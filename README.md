@@ -25,10 +25,16 @@
   <li> <a href="https://github.com/MayCooper/Ai-chatbot">AI Chatbot</a> - Builds a personal AI chatbot with dynamic labels and speech functionalities using ChatGPT APIs, developed with JavaScript, NodeJS, and NPM Packages, and includes comprehensive error handling.</li>
 </ul>
 
+
+<h2>Java Projects</h2>
+<p>Java, Springboot, Angular, Docker, Lombok</p>
+<li> <a href="https://github.com/MayCooper/Java-Multithreading-Scheduling-Application">Java SpringBoot Multi-threading Scheduling Application</a> - A multithreaded hotel scheduling application built with a Java Spring back end and an Angular front end. Features include multilingual support, currency display, and time zone conversion.</li>
+</ul>
+
 <h2 align="center">Skills</h2>
 
 <p align="center">
-  Python, SQL, JavaScript, PHP, CSS/HTML, JSON, Linux, Apache, LLMs, AWS, GCP, Azure, Node.js, Git
+  Python, SQL, JavaScript, PHP, CSS/HTML, JSON, Linux, Apache, LLMs, AWS, GCP, Azure, Node.js, Git, Java, Springboot, Angular
 </p>
 <p align="center">
   (and more)
