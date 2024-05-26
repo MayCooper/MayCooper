@@ -1,4 +1,19 @@
 <h1>Hi, I'm May!</h1>
+<h2>My Skills</h2>
+<ul>
+  <li>Java & Spring Boot</li>
+  <li>Angular & Front-End Development</li>
+  <li>Docker & Containerization</li>
+  <li>Python Programming</li>
+  <li>SQL & Database Management</li>
+  <li>JavaScript & Web Development</li>
+  <li>Cloud Deployment (AWS, GCP, Azure)</li>
+  <li>Data Engineering</li>
+  <li>Version Control (Git)</li>
+  <li>Machine Learning & Data Science</li>
+  <li>Multithreading & Concurrent Programming</li>
+</ul>
+
 <h2>Machine Learning & Data Science Projects</h2>
 <p>Pure Python & Statistics, Natural Language Processing, Neural Networks</p>
 
@@ -28,7 +43,7 @@
 
 
 <h2>Java Projects</h2>
-<p>Java, Springboot, Angular, Docker, Lombok</p>
+<p>Java, Spring Boot, Angular, Docker, Lombok</p>
 <li> <a href="https://github.com/MayCooper/Java-Multithreading-Scheduling-Application">Java Springboot Multi-threading Scheduling Application</a> - A multithreaded hotel scheduling application built with a Java Spring back end and an Angular front end. Features include multilingual support, currency display, and time zone conversion.</li>
 </ul>
 
