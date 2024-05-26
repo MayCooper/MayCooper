@@ -1,17 +1,16 @@
 <h1>Hi, I'm May!</h1>
 <h2>My Skills</h2>
 <ul>
-  <li>Java & Spring Boot</li>
-  <li>Angular & Front-End Development</li>
-  <li>Docker & Containerization</li>
-  <li>Python Programming</li>
-  <li>SQL & Database Management</li>
-  <li>JavaScript & Web Development</li>
-  <li>Cloud Deployment (AWS, GCP, Azure)</li>
-  <li>Data Engineering</li>
-  <li>Version Control (Git)</li>
   <li>Machine Learning & Data Science</li>
+  <li>Data Engineering</li>
+  <li>Cloud Deployment (AWS, GCP, Azure)</li>  
+  <li>Python Programming</li>
+  <li>SQL & Database Management</li>  
+  <li>Java & Spring Boot</li>
+  <li>Docker & Containerization</li>
   <li>Multithreading & Concurrent Programming</li>
+  <li>Angular & Front-End Development</li>
+  <li>JavaScript & Web Development</li>
 </ul>
 
 <h2>Machine Learning & Data Science Projects</h2>
