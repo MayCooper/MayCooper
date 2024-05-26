@@ -11,6 +11,7 @@
   <li>Multithreading & Concurrent Programming</li>
   <li>Angular & Front-End Development</li>
   <li>JavaScript & Web Development</li>
+  <li>Version Control (Git)</li>
 </ul>
 
 <h2>Machine Learning & Data Science Projects</h2>
