@@ -9,8 +9,9 @@
   <li>Java & Spring Boot</li>
   <li>Docker & Containerization</li>
   <li>Multithreading & Concurrent Programming</li>
-  <li>Angular & Front-End Development</li>
   <li>JavaScript & Web Development</li>
+  <li>Angular & Front-End Development</li>
+  <li>API Integration (JSON, Postman, etc)</li>
   <li>Version Control (Git)</li>
 </ul>
 
