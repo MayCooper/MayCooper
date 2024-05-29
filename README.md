@@ -1,43 +1,19 @@
 <h1>Hi, I'm May!</h1>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Skills</title>
-    <style>
-        .skills-container {
-            display: flex;
-            justify-content: space-between;
-        }
-        .skills-column {
-            width: 45%;
-        }
-    </style>
-</head>
-<body>
-    <h2>My Skills</h2>
-    <div class="skills-container">
-        <ul class="skills-column">
-            <li>Machine Learning & Data Science</li>
-            <li>Data Engineering</li>
-            <li>Cloud Deployment (AWS, GCP, Azure)</li>
-            <li>Python Programming</li>
-            <li>SQL & Database Management</li>
-            <li>Java & Spring Boot</li>
-        </ul>
-        <ul class="skills-column">
-            <li>Docker & Containerization</li>
-            <li>Multithreading & Concurrent Programming</li>
-            <li>JavaScript & Web Development</li>
-            <li>Angular & Front-End Development</li>
-            <li>API Integration (JSON, Postman, etc)</li>
-            <li>Version Control (Git)</li>
-        </ul>
-    </div>
-</body>
-</html>
-
+<h2>My Skills</h2>
+<ul>
+  <li>Machine Learning & Data Science</li>
+  <li>Data Engineering</li>
+  <li>Cloud Deployment (AWS, GCP, Azure)</li>  
+  <li>Python Programming</li>
+  <li>SQL & Database Management</li>  
+  <li>Java & Spring Boot</li>
+  <li>Docker & Containerization</li>
+  <li>Multithreading & Concurrent Programming</li>
+  <li>JavaScript & Web Development</li>
+  <li>Angular & Front-End Development</li>
+  <li>API Integration (JSON, Postman, etc)</li>
+  <li>Version Control (Git)</li>
+</ul>
 
 <h2>Machine Learning & Data Science Projects</h2>
 <p>Pure Python & Statistics, Natural Language Processing, Neural Networks</p>
