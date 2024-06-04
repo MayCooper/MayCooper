@@ -44,7 +44,7 @@
 
 
 <h2>Java Projects</h2>
-<p>Java, Spring Boot, Angular, Docker, Lombok</p>
+<p>Java, Spring Boot, Angular, Docker, MySQL Driver, Lombok, Spring Data JPA, Spring Rest Repositories</p>
 <li> <a href="https://github.com/MayCooper/Java-Multithreading-Scheduling-Application">Java Springboot Multi-threading Scheduling Application</a> - A multithreaded hotel scheduling application built with a Java Spring back end and an Angular front end. Features include multilingual support, currency display, and time zone conversion.</li>
 </ul>
 <p>Java, Spring Boot, Spring Data JPA, MySQL, Angular, Lombok</p>
