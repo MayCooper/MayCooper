@@ -51,8 +51,6 @@
 <li> <a href="https://github.com/MayCooper/Spring-MySQL-Angular-Travel-Agency-Back-End">Spring-MySQL Travel Agency Back-End</a> - Migrating a legacy travel agency back-end system to a modern Spring Boot architecture with MySQL integration, providing enhanced functionality and maintainability. Features include robust object-oriented design, seamless data operations, and RESTful APIs.</li>
 <li> <a href="https://github.com/MayCooper/Spring-Framework-Inventory-Management-System">Spring Framework Inventory Management System</a> - This customizable Spring Framework application provides a sample store like Aerial Innovations with real-time inventory management, minimum and maximum stock levels, and purchase tracking.</li>
 
-<p>Java, Spring Boot, Spring Data JPA, MySQL, Angular, Lombok</p>
-
 <h2 align="center">Skills</h2>
 
 <p align="center">
