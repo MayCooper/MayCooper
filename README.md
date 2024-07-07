@@ -27,6 +27,7 @@
   <li> <a href="https://github.com/MayCooper/Implementing-Decision-Trees">Implementing Decision Trees</a> - Python-based decision tree implementation, encompassing data preparation, model training, evaluation, and visualization for classification and regression tasks in supervised learning.</li>
   <li> <a href="https://github.com/MayCooper/Coding-Gradient-Descent-for-LSR">Gradient Descent for LSR</a> - Focuses on coding the gradient descent optimization algorithm in Python to minimize the mean squared error cost function in linear regression models.</li>
   <li><a href="https://github.com/MayCooper/Python-Nearest-Neighbor-Truck-Logistics-Program">Python Nearest Neighbor Logistics Truck Planner</a> - The Python Logistics Planner optimizes routing for a delivery service using the Nearest Neighbor Algorithm and a dynamic hash table. This solution minimizes travel distances and adapts to real-time changes, ensuring efficient and timely deliveries.</li>
+  <li><a href="https://github.com/MayCooper/IMDb-Movie-Review-Sentiment-Analysis">IMDb Movie Review Sentiment Classifier</a> - This project employs Natural Language Processing (NLP) and machine learning to classify IMDb movie reviews as positive or negative. It features data cleaning, feature extraction, model training, and visualization to analyze and interpret review sentiments effectively.</li>
 </ul>
 
 <h2>Data/Software Engineering Projects</h2>
