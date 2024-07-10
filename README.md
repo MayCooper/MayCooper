@@ -16,10 +16,11 @@
 </ul>
 
 <h2>Machine Learning & Data Science Projects</h2>
-<p>Pure Python & Statistics, Natural Language Processing, Neural Networks</p>
+<p>Pure Python & Statistics, Natural Language Processing, Computer Vision, Deep Learning, Neural Networks</p>
 
 <ul>
   <li><a href="https://github.com/MayCooper/Product-Price-Prediction/blob/main/Final_Used%20Cars_Aug%2030%202021.ipynb">Product Price Prediction</a> - Machine learning model to predict used car prices utilizing Random Forest, Linear Regression and Neural Networks.</li>
+  <li><a href="https://github.com/MayCooper/PyTorch-Deep-Reinforcement-Learning-Framework-for-Autonomous-Moon-Landings">PyTorch Deep Reinforcement Learning Framework for Autonomous Moon Landings</a> - Implementing the Deep Deterministic Policy Gradient (DDPG) algorithm in PyTorch to develop reinforcement learning strategies for autonomous moon landings.</li>
   <li> <a href="https://github.com/MayCooper/green-energy-production-inverter-prediction">Solar Inverters Energy Capacity Prediction</a> - AI for optimizing solar power generation by predicting weather conditions and inverter failures with Python.</li>
   <li> <a href="https://github.com/MayCooper/Facial-Recognition-App">Facial Recognition App</a> - Application using OpenCV for facial recognition, using Python, OpenCV for image processing, and SVMs for classification, all integrated into a Flask web framework and deployed on Heroku.</li>
   <li> <a href="https://github.com/MayCooper/Decision-Trees-and-Random-Forests">Decision Trees & Random Forests</a> - Implementing Decision Trees and Random Forests in Python, utilizing supervised machine learning algorithms for complex classification and regression tasks, with a focus on improving algorithmic performance and accuracy.</li>
