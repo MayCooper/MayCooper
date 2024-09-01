@@ -48,11 +48,12 @@
 
 <h2>Java Projects</h2>
 <p>Java, Spring Boot, Angular, Docker, MySQL Driver, Lombok, Spring Data JPA, Spring Rest Repositories</p>
-<li> <a href="https://github.com/MayCooper/Java-Multithreading-Scheduling-Application">Java Springboot Multi-threading Scheduling Application</a> - A multithreaded hotel scheduling application built with a Java Spring back end and an Angular front end. Features include multilingual support, currency display, and time zone conversion.</li>
+
+<ul>
+  <li><a href="https://github.com/MayCooper/Java-Multithreading-Scheduling-Application">Java Springboot Multi-threading Scheduling Application</a> - A multithreaded hotel scheduling application built with a Java Spring back end and an Angular front end. Features include multilingual support, currency display, and time zone conversion.</li>
+  <li><a href="https://github.com/MayCooper/Spring-MySQL-Angular-Travel-Agency-Back-End">Spring-MySQL Travel Agency Back-End</a> - Migrating a legacy travel agency back-end system to a modern Spring Boot architecture with MySQL integration, providing enhanced functionality and maintainability. Features include robust object-oriented design, seamless data operations, and RESTful APIs.</li>
+  <li><a href="https://github.com/MayCooper/Spring-Framework-Inventory-Management-System">Spring Framework Inventory Management System</a> - This customizable Spring Framework application provides a sample store like Aerial Innovations with real-time inventory management, minimum and maximum stock levels, and purchase tracking.</li>
 </ul>
-<p>Java, Spring Boot, Spring Data JPA, MySQL, Angular, Lombok</p>
-<li> <a href="https://github.com/MayCooper/Spring-MySQL-Angular-Travel-Agency-Back-End">Spring-MySQL Travel Agency Back-End</a> - Migrating a legacy travel agency back-end system to a modern Spring Boot architecture with MySQL integration, providing enhanced functionality and maintainability. Features include robust object-oriented design, seamless data operations, and RESTful APIs.</li>
-<li> <a href="https://github.com/MayCooper/Spring-Framework-Inventory-Management-System">Spring Framework Inventory Management System</a> - This customizable Spring Framework application provides a sample store like Aerial Innovations with real-time inventory management, minimum and maximum stock levels, and purchase tracking.</li>
 
 <h2 align="center">Skills</h2>
 
