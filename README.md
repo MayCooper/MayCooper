@@ -36,6 +36,7 @@
 
 <ul>
   <li> <a href="https://github.com/MayCooper/Groovify">Groovify Music App</a> - A comprehensive music playing application built from scratch using JavaScript, Python, MySQL, PHP, JQuery, Ajax, and Apache, featuring user interaction capabilities like uploading and playing songs.</li>
+  <li> <a href="https://github.com/MayCooper/YT-Sentiment-Analytics-Pipeline-Kafka-Airflow-Spark-MongoDB-Tableau-Docker">Youtube Comments Sentiment Analysis Data Engineering Pipeline & Visualizationt</a> - A Data Engineering pipeline for YouTube comment sentiment analysis using Python, Kafka, Airflow, Spark, and MongoDB, with visualization in Tableau and core components in Docker.</li>
   <li> <a href="https://github.com/MayCooper/E-Commerce-PostgreSQL-Project">E-Commerce PostgreSQL Project</a> - Focuses on designing, implementing, and maintaining a PostgreSQL database for e-commerce data, including advanced querying, data partitioning, and error handling strategies.</li>
   <li> <a href="https://github.com/MayCooper/Snowflake-SQL-WalmartCommerceDB-AWS-Project">Walmart Commerce DB on AWS and Snowflake</a> - Involves creating a Walmart Commerce database using AWS, Snowflake, and SnowSQL CLI, with features like Materialized Views, Search Optimization, and Clustering for enhanced data management.</li>
   <li><a href="https://github.com/MayCooper/car-dealership-sql-project">Car Dealership SQL Project</a> - A SQL-based project for managing car dealership sales data, offering robust solutions for recording, managing, and analyzing sales information efficiently.</li>
