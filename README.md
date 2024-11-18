@@ -6,7 +6,7 @@
   <li>Cloud Deployment (AWS, GCP, Azure)</li>  
   <li>Python Programming</li>
   <li>SQL & Database Management</li>  
-  <li>Java & Spring Boot</li>
+  <li>Java & Spring (Backend)</li>
   <li>Docker & Containerization</li>
   <li>Multithreading & Concurrent Programming</li>
   <li>JavaScript & Web Development</li>
