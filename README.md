@@ -29,9 +29,9 @@
   <li> <a href="https://github.com/MayCooper/Implementing-Decision-Trees">Implementing Decision Trees</a> - Python-based decision tree implementation, encompassing data preparation, model training, evaluation, and visualization for classification and regression tasks in supervised learning.</li>
   <li> <a href="https://github.com/MayCooper/Coding-Gradient-Descent-for-LSR">Gradient Descent for LSR</a> - Focuses on coding the gradient descent optimization algorithm in Python to minimize the mean squared error cost function in linear regression models.</li>
   <li><a href="https://github.com/MayCooper/Python-Nearest-Neighbor-Truck-Logistics-Program">Python Nearest Neighbor Logistics Truck Planner</a> - The Python Logistics Planner optimizes routing for a delivery service using the Nearest Neighbor Algorithm and a dynamic hash table. This solution minimizes travel distances and adapts to real-time changes, ensuring efficient and timely deliveries.</li>
-</ul>
-<li><a href="https://github.com/MayCooper/Supervised-Learning-House-Price-Prediction-Optimized-OLS">Supervised Learning House Price Prediction Optimized OLS</a> – Multivariate regression model for predicting house prices using optimized OLS with feature selection, VIF-based multicollinearity checks, and model evaluation using MSE and R².</li>
-<li><a href="https://github.com/MayCooper/Logistic-Regression-Real-Estate-Attribute-Classifier">Logistic Regression Real Estate Attribute Classifier</a> – Binary classification model for predicting structural housing features from property data using logistic regression with MLE, feature selection, and evaluation via pseudo R², AIC, and confusion matrix.</li>
+  <li><a href="https://github.com/MayCooper/Supervised-Learning-House-Price-Prediction-Optimized-OLS">Supervised Learning House Price Prediction Optimized OLS</a> – Multivariate regression model for predicting house prices using optimized OLS with feature selection, VIF-based multicollinearity checks, and model evaluation using MSE and R².</li>
+  <li><a href="https://github.com/MayCooper/Logistic-Regression-Real-Estate-Attribute-Classifier">Logistic Regression Real Estate Attribute Classifier</a> – Binary classification model for predicting structural housing features from property data using logistic regression with MLE, feature selection, and evaluation via pseudo R², AIC, and confusion matrix.</li>
+  </ul>
 
 <h2>Data/Software Engineering Projects</h2>
 <p>SQL, Python, Javascript, Ajax, JQuery, PHP, Apache & AWS</p>
