@@ -31,6 +31,7 @@
   <li><a href="https://github.com/MayCooper/Python-Nearest-Neighbor-Truck-Logistics-Program">Python Nearest Neighbor Logistics Truck Planner</a> - The Python Logistics Planner optimizes routing for a delivery service using the Nearest Neighbor Algorithm and a dynamic hash table. This solution minimizes travel distances and adapts to real-time changes, ensuring efficient and timely deliveries.</li>
   <li><a href="https://github.com/MayCooper/Supervised-Learning-House-Price-Prediction-Optimized-OLS">Supervised Learning House Price Prediction Optimized OLS</a> – Multivariate regression model for predicting house prices using optimized OLS with feature selection, VIF-based multicollinearity checks, and model evaluation using MSE and R².</li>
   <li><a href="https://github.com/MayCooper/Logistic-Regression-Real-Estate-Attribute-Classifier">Logistic Regression Real Estate Attribute Classifier</a> – Binary classification model for predicting structural housing features from property data using logistic regression with MLE, feature selection, and evaluation via pseudo R², AIC, and confusion matrix.</li>
+  <li><a href="https://github.com/MayCooper/Real-Estate-Price-Modeling-Using-PCA">Real Estate Price Modeling Using PCA</a> – Regression model for predicting housing prices using PCA-transformed structural and neighborhood features to reduce multicollinearity and improve accuracy.</li>
   </ul>
 
 <h2>Data/Software Engineering Projects</h2>
