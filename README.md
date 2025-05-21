@@ -36,6 +36,7 @@
 <li><a href="https://github.com/MayCooper/90-Day-Revenue-Forecasting-with-ARIMA-Time-Series-Modeling">90-Day Revenue Forecasting with ARIMA Time Series Modeling</a> – Time series forecasting project using ARIMA to predict daily revenue over a 90-day horizon, supporting financial planning based on historical business trends and diagnostic validation.</li>
 <li><a href="https://github.com/MayCooper/KMeans-Patient-Segmentation-for-Hospital-Cost-Optimization">K-Means Patient Segmentation for Hospital Cost Optimization</a> – Unsupervised clustering project using k-means to identify patient groups based on vitamin D levels and medical charges, helping hospitals optimize resource allocation and care planning.</li>
 <li><a href="https://github.com/MayCooper/Healthcare-Patient-Readmission-Risk-Prediction-Using-GradientBoost">Gradient Boosting Classifier for Patient Readmission Risk</a> – Predictive model using tuned gradient boosting to classify 30-day patient readmission risk from healthcare data, with performance metrics including AUC-ROC, F1 score, and feature importance analysis.</li>
+  <li><a href="https://github.com/MayCooper/User-Review-Sentiment-Classification-Using-BiLSTM-Networks">User Review Sentiment Classification Using BiLSTM Networks</a> – NLP sentiment analysis project using GloVe word embeddings and a BiLSTM neural network. Compares ReLU, sigmoid, and tanh activation functions to evaluate their impact on model accuracy and generalization across real-world user reviews.</li>
   </ul>
 
 <h2>Data/Software Engineering Projects</h2>
