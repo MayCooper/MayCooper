@@ -19,6 +19,12 @@
 <p>Pure Python & Statistics, Natural Language Processing, Computer Vision, Deep Learning, Neural Networks</p>
 
 <ul>
+    <li>
+    <a href="https://github.com/MayCooper/liveops-rl-decision-engine">LiveOps RL Decision Engine</a> –
+    Interactive reinforcement learning and agentic AI decisioning system for LiveOps player interventions. 
+    Built with Python, FastAPI, tabular Q-learning, deterministic safety gates, rollout simulation, benchmark comparisons, 
+    LangChain RAG policy analysis, Docker, Hugging Face Spaces, and optional GCP BigQuery/Gemini integration. <a href="https://maycooper-liveops-rl-decision-engine.hf.space">Live Demo</a>
+    </li>
     <li> <a href="https://github.com/MayCooper/green-energy-production-inverter-prediction">Solar Inverters Energy Capacity Prediction</a> - AI for optimizing solar power generation by predicting weather conditions and inverter failures with Python.</li>
     <li><a href="https://github.com/MayCooper/PyTorch-Deep-Reinforcement-Learning-Framework-for-Autonomous-Moon-Landings">PyTorch Deep Reinforcement Learning Framework for Autonomous Moon Landings</a> - Implementing the Deep Deterministic Policy Gradient (DDPG) algorithm in PyTorch to develop reinforcement learning strategies for autonomous moon landings.</li>
   <li><a href="https://github.com/MayCooper/CNN-LSTM-Human-Activity-Recognition-in-Video">CNN-LSTM Human Activity Recognition in Video</a> – Combines a CNN-LSTM architecture in Keras to classify human actions from video frames. The model detects unsafe pedestrian behaviors to support real-time safety monitoring in construction and surveillance environments.</li>
